@@ -1,10 +1,8 @@
 ### Hello, I am Priyanka! 👋
-<img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="500" height="20" />
 
 ## Intovert•Realist•Driven•Sane•Empath•Sedulous
 <br />
-<br />
-
 
 - 🔭 I’m currently working on Warehouse Automation✨
 - 🌱 I’m currently learning Flutter
