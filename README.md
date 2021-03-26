@@ -26,6 +26,11 @@
 <br />
 <br />
 
-[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&&count_private=true&&show_icons=true&&&hide=stars,prs,issues&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&&count_private=true&&show_icons=true&&&hide=stars,prs,issues&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
