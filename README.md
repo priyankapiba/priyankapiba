@@ -1,5 +1,5 @@
 ### Hello, I am Priyanka! 👋
-<img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="500" height="20" />
+<img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="450" height="320" />
 
 ## Intovert•Realist•Driven•Sane•Empath•Sedulous
 <br />
