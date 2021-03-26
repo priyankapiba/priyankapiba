@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Flutter
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/PriyankaSalunke)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankasalunke/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am Joyous Person😁😁!!!
  <!-- - 💬 Ask me about ... -->
