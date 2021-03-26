@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I am Priyanka! 👋
 
-<!--
-**priyankapiba/priyankapiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Warehouse Automation✨
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Open Source
+- 🤔 I’m looking for help with Flutter
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/PriyankaSalunke)
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I am Joyous Person😁😁!!!
+
