@@ -10,6 +10,9 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am Joyous Person😁😁!!!
  <!-- - 💬 Ask me about ... -->
+ 
+ ### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
@@ -33,4 +36,10 @@
 
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </details>
+ 
+ [linkedin]: www.linkedin.com/in/priyankasalunke
