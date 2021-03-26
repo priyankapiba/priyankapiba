@@ -12,6 +12,6 @@
  <!-- - 💬 Ask me about ... -->
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="Priyanka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.linkedin.com/in/priyankasalunke" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
