@@ -1,7 +1,8 @@
 ### Hello, I am Priyanka! 👋
 <img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="500" height="320" />
 
-
+<br />
+<br />
 - 🔭 I’m currently working on Warehouse Automation✨
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source
@@ -41,7 +42,8 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  </details>
  
