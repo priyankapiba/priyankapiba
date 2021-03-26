@@ -46,4 +46,4 @@
  </details>
  
  
- [linkedin]: www.linkedin.com/in/priyankasalunke
+ [linkedin]: https://www.linkedin.com/in/priyankasalunke/
