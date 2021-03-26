@@ -1,5 +1,5 @@
 ### Hello, I am Priyanka! 👋
-
+<img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="500" height="320" />
 
 
 - 🔭 I’m currently working on Warehouse Automation✨
@@ -11,3 +11,7 @@
 - ⚡ Fun fact: I am Joyous Person😁😁!!!
  <!-- - 💬 Ask me about ... -->
 
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="Priyanka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
