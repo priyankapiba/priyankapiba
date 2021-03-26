@@ -23,5 +23,6 @@
 <br />
 <br />
 ---
-
-[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
