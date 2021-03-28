@@ -4,14 +4,14 @@
 ## Intovert•Realist•Driven•Sane•Empath•Sedulous
 <br />
 
-- 🔭 I’m currently working on Warehouse Automation✨
+- 🔭 I’m currently working on Warehouse Automation Project✨
 - 🌱 I’m currently learning Flutter
-<!-- - 👯 I’m looking to collaborate on Open Source-->
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with OpenGL😥
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankasalunke/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am Joyous Person😁😁!!!
- <!-- - 💬 Ask me about ... -->
+- 💬 Ask me about...Anything😎
+ <!-- - 👯 I’m looking to collaborate on Open Source-->
  
  ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/priyankasalunke/)
