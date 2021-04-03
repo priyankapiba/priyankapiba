@@ -1,7 +1,7 @@
 ### Hello, I am Priyanka! 👋
 <img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="450" height="320" />
 
-## Intovert•Realist•Driven•Sane•Empath•Sedulous
+## Intovert•Realist•Driven•Sane•Empath
 <br />
 
 - 🔭 I’m currently working on Warehouse Automation Project✨
@@ -43,7 +43,7 @@
   <br />
   <br />
 
-  [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&&count_private=true&&show_icons=true&&&hide=stars,prs,issues&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&&count_private=true&&show_icons=true&&&hide=prs,issues&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
