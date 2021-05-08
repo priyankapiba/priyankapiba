@@ -1,5 +1,5 @@
 ### Hello, I am Priyanka! 👋
-<img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/0_K2WLMTExLyida7OR.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/priyankapiba/priyankapiba/blob/main/34fbb9aa7bfeb8df98412067d64c2029.gif" width="450" height="320" />
 
 ## Realist•Driven•Sane•Empath
 <br />
