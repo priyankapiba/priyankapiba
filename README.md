@@ -57,9 +57,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
  
  <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{priyankapiba}/count.svg" alt="priyankapiba :: Visitor's Count" /></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/{priyankapiba}/count.svg" alt="priyankapiba :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>-->
 
 
 ⭐️ From [@priyankapiba](https://github.com/priyankapiba)
