@@ -3,11 +3,11 @@
 
 # Welcome to my profile✨
 
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I am Priyanka Salunke, currently a pre final year student pursuing my Computer Engineering.<br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I’m currently working on Warehouse Automation Project✨
+  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I am Priyanka Salunke, currently a pre final year student pursuing my Computer Engineering.<br />
+  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I’m currently working on Warehouse Automation Project✨
 <br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">I’m currently learning New things<br />
-  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/priyankasalunke/) ! <br />
+  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I’m currently learning New things<br />
+  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/priyankasalunke/) ! <br />
 
 
  
