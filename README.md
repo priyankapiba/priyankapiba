@@ -34,7 +34,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ### Priyanka's Stats:
 
-  [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&hide=prs&count_private=true&&show_icons=true&show_owner=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&hide=prs&count_private=true&&show_icons=true&show_owner=true&&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 ---
