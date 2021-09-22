@@ -11,15 +11,7 @@
 
 
  
- ### Talk with me, I am kinda AWESOME | REALISTIC | DRIVEN | SANE | EMPATH:
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyankasalunke/)
-<br>
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
+ 
 ### Most Used Languages 💻
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&layout=compact&theme=midnight-purple)](https://github.com/priyankapiba)
@@ -56,6 +48,14 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
  
+### Talk with me, I am kinda AWESOME | REALISTIC | DRIVEN | SANE | EMPATH
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 </div>
 
 
