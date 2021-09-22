@@ -12,23 +12,23 @@
 
  
  
-### Most Used Languages 💻
+## Most Used Languages 💻
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&layout=compact&theme=midnight-purple)](https://github.com/priyankapiba)
 <br />
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 ---
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 <br />
 
-### Priyanka's Stats:
+## Priyanka's Stats:
 
   [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&hide=prs&count_private=true&&show_icons=true&show_owner=true&&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 ---
 
 <div align="center">
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
  
-### Talk with me, I am kinda AWESOME | REALISTIC | DRIVEN | SANE | EMPATH
+## Talk with me, I am kinda AWESOME | REALISTIC | DRIVEN | SANE | EMPATH
 
 ```javascript
 // Which came first: the chicken or the egg?
@@ -60,7 +60,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
 
-![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution%20(1).svg)
+![Snake Graph](https://github.com/priyankapiba/priyankapiba/blob/main/github-user-contribution%20(1).svg)
 
 ---
 ```javascript
