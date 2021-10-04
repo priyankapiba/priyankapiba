@@ -14,9 +14,12 @@
  
 ## Most Used Languages 💻
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&layout=compact&theme=midnight-purple)](https://github.com/priyankapiba)
-<br />
-<br />
+<p  align="center">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapiba&layout=compact&theme=midnight-purple)](https://github.com/priyankapiba) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankapiba&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="priyankapiba" />
+</p>
+<!-- <br /> -->
+<!-- <br /> -->
 
 ## Languages and Tools:
 ---
@@ -26,7 +29,12 @@
 
 ## Priyanka's Stats:
 
-  [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&hide=prs&count_private=true&&show_icons=true&show_owner=true&&theme=radical&include_all_commits=true)](https://github.com/priyankapiba)
+<!--   [![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankapiba&hide=prs&count_private=true&&show_icons=true&show_owner=true&&theme=radical&include_all_commits=true)](https://github.com/priyankapiba) -->
+<p  align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyankapiba&show_icons=true&theme=midnight-purple" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankapiba&theme=midnight-purple" />
+</p>
+
 ## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 ---
 
