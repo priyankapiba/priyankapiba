@@ -59,7 +59,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 
 
-![Snake Graph](https://github.com/priyankapiba/priyankapiba/blob/main/github-user-contribution%20(1).svg)
+<!-- ![Snake Graph](https://github.com/priyankapiba/priyankapiba/blob/main/github-user-contribution%20(1).svg) -->
+[![Priyanka's github activity graph](https://priyankagraphgithub.herokuapp.com/graph?username=priyankapiba&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/priyankapiba/priyankapiba)
 
 ---
 ```javascript
