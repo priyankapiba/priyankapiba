@@ -1,12 +1,14 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[PRIYANKA SALUNKE](https://github.com/priyankapiba) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
+</br>
 
 # Welcome to my profile✨
 
   <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I am Priyanka Salunke, currently a pre final year student pursuing my Computer Engineering.<br />
-  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I’m currently working on Warehouse Automation Project✨
+  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I’m currently working on C.P..✨.
 <br />
-  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I’m currently learning New things<br />
+  <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">I’m currently learning C#.<br />
   <img src="https://github.com/priyankapiba/priyankapiba/blob/main/feather1.png" width="30" height="30">Who doesn’t love a totally strange message from a stranger about something completely random? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/priyankasalunke/) ! <br />
 
 
